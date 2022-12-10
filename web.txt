@@ -1,1 +1,1 @@
-Rest of the day I will learn about web development.
+Rest of the day I will learn about web development. Right now I am learning node.js
